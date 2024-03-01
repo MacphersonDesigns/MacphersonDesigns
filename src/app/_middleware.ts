@@ -1,0 +1,1 @@
+// Optional middleware for app-wide logic
